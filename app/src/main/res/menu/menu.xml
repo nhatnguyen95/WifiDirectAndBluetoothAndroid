@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/atn_discover_bluetooth"
+        android:title="Discover bluetooth devices"
+        android:showAsAction="ifRoom|withText"
+        tools:ignore="AppCompatResource"/>
+    <item
+        android:id="@+id/atn_discover_wifidirect"
+        android:title="Discover wifidirect devices"
+        android:showAsAction="ifRoom|withText"
+        tools:ignore="AppCompatResource"/>
+</menu>

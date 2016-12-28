@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_edcaaa1c8c4a71b16846551704b55e49274a980e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_679aa4045b2834071dbfe9e159eae139e30cbe49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bfffeccfc8c34cb9378a91e6f2ecb65b45e8934b">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_565caadfe3d5f7541618ecea22b691ab41b545cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_51b15cba9cf766fffccf4116fd5769b92cdde144/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_032e59f19621f1c6ac38468416bccfdd39d32356/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nhatnguyen/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_b7a2535c6ce6f730f228c8a3b37c0419b6e5ddab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_9d729f36a2f7295e32632d5ce2044ede7a50a475/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_e50a3120750fc0033bd68105086d84ac90102e93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_555822d6aa6f021a40baa79a4560f481e4a94b45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_844ae8ef039cd9af5027158eacfe2a1afe7fc10a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_2ee3cbc27e78fbbaa28619545238f2464f650fca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b9ee3cf77c7b0ef1439a13381677a58a1f9aea3">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6cfe3cc3ba9e7628884aba2530256606b73d33ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_9369e84d57024fe19b5b7e57d74b726f7b702a0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_0074763fd255d5664ad1d8d1ef1340c905fde07e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_aff3da711630917a33fac3394b38e5ef7fb0492a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_ecaaaeb29464f3b7dfa130587ccd585f2e4f0dc2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Chat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_e28ae047512dde094152f9cf83b704f1cb568af4/classes.dex" />
+    </item>
+
+</items>
